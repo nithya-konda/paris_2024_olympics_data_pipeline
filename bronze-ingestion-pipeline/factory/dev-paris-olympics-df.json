@@ -1,0 +1,15 @@
+{
+	"name": "dev-paris-olympics-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03dde5e8-4722-4c8f-a7d6-9d175233631e",
+		"tenantId": "03014579-700a-4a89-bf92-95ca14660023"
+	}
+}
